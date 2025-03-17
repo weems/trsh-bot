@@ -1,1 +1,2 @@
 # trsh-bot
+Creates a Bot, the idea for which was originally created by trsh-puppy from twitter to make a low energy tweet that is related to software development and security based on a text file of occupations
