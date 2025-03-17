@@ -1,0 +1,500 @@
+Software Developer
+Systems Analyst
+IT Project Manager
+Database Administrator
+Network Administrator
+Web Developer
+Information Security Analyst
+Computer Systems Administrator
+Cloud Solutions Architect
+Mobile Application Developer
+DevOps Engineer
+UX UI Designer
+Quality Assurance Engineer
+Computer Systems Analyst
+Data Analyst
+Business Intelligence Developer
+Computer Network Architect
+IT Consultant
+Technical Support Specialist
+Computer Programmer
+Full Stack Developer
+Front End Developer
+Back End Developer
+API Developer
+Test Automation Engineer
+Site Reliability Engineer
+Systems Engineer
+Network Engineer
+IT Manager
+Computer Hardware Engineer
+Computer Network Support Specialist
+Network Operations Center Technician
+Computer Forensics Specialist
+Information Technology Instructor
+Computer Research Scientist
+Cybersecurity Engineer
+Data Scientist
+Big Data Engineer
+Enterprise Architect
+IT Auditor
+Software Architect
+Chief Technology Officer
+Chief Information Officer
+Chief Information Security Officer
+Computer Vision Engineer
+Blockchain Developer
+Technical Writer
+Game Developer
+Web Security Engineer
+Security Architect
+Penetration Tester
+Ethical Hacker
+Machine Learning Engineer
+Artificial Intelligence Specialist
+Natural Language Processing Engineer
+Database Engineer
+Release Engineer
+Cloud Engineer
+Cloud Security Specialist
+IoT Developer
+Computer Graphics Programmer
+Storage Engineer
+Information Systems Manager
+Desktop Support Technician
+Help Desk Technician
+Low Code Developer
+System Integrator
+Technology Consultant
+Web Analytics Developer
+Embedded Systems Engineer
+Software Quality Assurance Manager
+Information Security Manager
+Computer and Information Systems Manager
+Computer Support Specialist
+IT Director
+Systems Software Developer
+Applications Software Developer
+Technical Account Manager
+AI Research Scientist
+Quantum Computing Researcher
+Search Engine Optimization Specialist
+Information Architect
+Telecommunications Engineer
+AR VR Developer
+Digital Forensics Analyst
+Solutions Architect
+Malware Analyst
+Computer Programmer Analyst
+Chief Data Officer
+Data Center Technician
+Network Security Administrator
+IT Infrastructure Manager
+IT Systems Manager
+Wireless Network Engineer
+Platform Engineer
+Computational Linguist
+Computer Animation Specialist
+IT Procurement Manager
+Data Warehouse Architect
+Technology Director
+Data Engineer
+Database Developer
+Statistical Programmer
+Business Intelligence Analyst
+Data Mining Specialist
+Data Architect
+Analytics Manager
+Data Governance Manager
+Chief Analytics Officer
+Quantitative Analyst
+Data Management Specialist
+ETL Developer
+Decision Science Analyst
+Machine Learning Researcher
+Data Visualization Specialist
+Database Architect
+Predictive Modeler
+Business Analytics Manager
+SQL Developer
+NoSQL Specialist
+Operations Research Analyst
+Research Data Scientist
+Informatics Specialist
+Neural Network Developer
+Deep Learning Engineer
+Electrical Engineer
+Mechanical Engineer
+Civil Engineer
+Chemical Engineer
+Aerospace Engineer
+Biomedical Engineer
+Industrial Engineer
+Environmental Engineer
+Materials Engineer
+Nuclear Engineer
+Petroleum Engineer
+Agricultural Engineer
+Automotive Engineer
+Structural Engineer
+Marine Engineer
+Mining Engineer
+Acoustical Engineer
+Geotechnical Engineer
+Robotics Engineer
+Control Systems Engineer
+Fire Protection Engineer
+Hydraulic Engineer
+Transportation Engineer
+Design Engineer
+Product Development Engineer
+Research Engineer
+Process Engineer
+Manufacturing Engineer
+Project Engineer
+Systems Integration Engineer
+Test Engineer
+Field Engineer
+Safety Engineer
+Cost Engineer
+Energy Engineer
+Reliability Engineer
+Ceramics Engineer
+Mechatronics Engineer
+Photonics Engineer
+Nanotechnology Engineer
+Optical Engineer
+Power Systems Engineer
+Pipeline Engineer
+Water Resources Engineer
+RF Engineer
+Telecommunications Engineer
+Hardware Engineer
+HVAC Engineer
+Instrumentation Engineer
+Packaging Engineer
+Physicist
+Chemist
+Biologist
+Astronomer
+Ecologist
+Geologist
+Meteorologist
+Oceanographer
+Zoologist
+Botanist
+Biochemist
+Microbiologist
+Geneticist
+Molecular Biologist
+Neuroscientist
+Astrophysicist
+Nuclear Physicist
+Quantum Physicist
+Particle Physicist
+Experimental Physicist
+Theoretical Physicist
+Computational Physicist
+Biophysicist
+Geophysicist
+Hydrologist
+Paleontologist
+Seismologist
+Volcanologist
+Analytical Chemist
+Organic Chemist
+Inorganic Chemist
+Physical Chemist
+Polymer Chemist
+Medicinal Chemist
+Computational Chemist
+Environmental Scientist
+Marine Biologist
+Wildlife Biologist
+Conservation Scientist
+Food Scientist
+Soil Scientist
+Atmospheric Scientist
+Materials Scientist
+Forensic Scientist
+Research Scientist
+Laboratory Technician
+Scientific Programmer
+Climatologist
+Immunologist
+Pharmacologist
+Mathematician
+Statistician
+Actuary
+Cryptographer
+Mathematical Modeler
+Computational Mathematician
+Applied Mathematician
+Financial Mathematician
+Mathematical Physicist
+Mathematical Biologist
+Industrial Mathematician
+Operations Research Mathematician
+Biomathematician
+Mathematical Economist
+Numerical Analyst
+Algebraist
+Topologist
+Geometer
+Mathematical Logician
+Number Theorist
+Mathematical Statistician
+Biostatistician
+Demographer
+Economic Statistician
+Survey Statistician
+Medical Technologist
+Biomedical Equipment Technician
+Clinical Informatics Specialist
+Health Information Technician
+Healthcare Systems Analyst
+Bioinformatics Specialist
+Medical Imaging Technologist
+Radiologic Technologist
+MRI Technologist
+Sonographer
+Radiation Therapist
+Nuclear Medicine Technologist
+Clinical Laboratory Scientist
+Cytotechnologist
+Histotechnologist
+Phlebotomist
+Health Information Manager
+Medical Coder
+Medical Records Technician
+Health Data Analyst
+Healthcare IT Project Manager
+Telemedicine Technician
+Healthcare Database Administrator
+Medical Device Software Developer
+Electronic Medical Record Specialist
+Aerospace Technician
+Aeronautical Engineer
+Aircraft Electronics Technician
+Avionics Technician
+Flight Systems Test Engineer
+Propulsion Engineer
+Space Systems Engineer
+Aircraft Design Engineer
+Satellite Systems Engineer
+UAV Drone Engineer
+Flight Test Engineer
+Aerodynamics Engineer
+Flight Software Engineer
+Aerospace Materials Engineer
+Spacecraft Engineer
+Aerospace Structural Engineer
+Mission Control Specialist
+Astronautical Engineer
+Aircraft Systems Engineer
+Aerospace Project Manager
+Flight Dynamics Engineer
+Payload Engineer
+Aerospace Manufacturing Engineer
+Aircraft Performance Engineer
+Spacecraft Systems Engineer
+Environmental Engineer
+Environmental Scientist
+Geoscientist
+Hydrologist
+Meteorologist
+Climate Change Analyst
+Conservation Scientist
+Environmental Health and Safety Specialist
+Geospatial Information Scientist
+GIS Specialist
+Remote Sensing Scientist
+Soil Conservationist
+Water Resource Specialist
+Wetlands Scientist
+Atmospheric Scientist
+Hazardous Waste Management Specialist
+Air Quality Specialist
+Environmental Compliance Specialist
+Sustainability Specialist
+Renewable Energy Technician
+Natural Resource Manager
+Environmental Restoration Planner
+Environmental Risk Assessor
+Ecologist
+Marine Scientist
+Energy Engineer
+Solar Energy Systems Engineer
+Wind Energy Engineer
+Geothermal Engineer
+Hydroelectric Engineer
+Nuclear Engineer
+Power Systems Engineer
+Energy Efficiency Specialist
+Smart Grid Engineer
+Energy Systems Analyst
+Power Plant Operator
+Electrical Power Line Installer
+Substation Technician
+Control Room Operator
+Instrumentation and Controls Technician
+Energy Auditor
+Biomass Energy Technician
+Hydrogen Energy Specialist
+Energy Storage Specialist
+Power Electronics Engineer
+Distributed Energy Systems Designer
+Microgrid Engineer
+Transmission Engineer
+Energy Policy Analyst
+Energy Project Manager
+Biotechnologist
+Pharmaceutical Scientist
+Bioprocess Engineer
+Clinical Research Associate
+Drug Development Scientist
+Formulation Scientist
+Pharmaceutical Manufacturing Technician
+Quality Control Analyst
+Regulatory Affairs Specialist
+Biochemical Engineer
+Biomedical Researcher
+Molecular Biologist
+Cell Biologist
+Protein Scientist
+Fermentation Specialist
+Pharmaceutical Chemist
+Bioproduction Specialist
+Validation Engineer
+Bioinstrumentation Developer
+Tissue Engineer
+Genomics Researcher
+Proteomics Scientist
+Biopharmaceutical Analyst
+Clinical Data Manager
+Pharmaceutical Process Engineer
+Manufacturing Engineer
+Industrial Engineer
+Process Engineer
+Quality Engineer
+Automation Engineer
+Robotics Technician
+CNC Programmer
+Industrial Machinery Mechanic
+Industrial Production Manager
+Manufacturing Technician
+Production Technician
+Mechanical Design Engineer
+Plant Engineer
+Facilities Engineer
+Process Control Technician
+Industrial Systems Technician
+Instrument Technician
+CAD CAM Specialist
+Six Sigma Specialist
+Lean Manufacturing Specialist
+Production Supervisor
+Materials Handler
+Supply Chain Analyst
+Logistics Coordinator
+Industrial Designer
+Agricultural Engineer
+Food Process Engineer
+Precision Agriculture Specialist
+Agricultural Systems Manager
+Crop Consultant
+Agricultural Data Analyst
+Farm Equipment Technician
+Irrigation Engineer
+Soil and Plant Scientist
+Food Safety Specialist
+Agricultural Robotics Engineer
+Agronomist
+Agricultural Drone Operator
+Livestock Management Systems Specialist
+Greenhouse Technologist
+Agricultural Software Developer
+Controlled Environment Agriculture Specialist
+Agricultural Automation Engineer
+Vertical Farming Technician
+Agricultural Equipment Designer
+Bioprocessing Specialist
+Food Technology Specialist
+Sustainable Agriculture Consultant
+Indoor Farming Systems Engineer
+Agricultural Sensor Network Specialist
+Transportation Engineer
+Logistics Systems Analyst
+Supply Chain Technology Specialist
+Intelligent Transportation Systems Engineer
+Traffic Management Systems Specialist
+Fleet Management Technology Specialist
+Autonomous Vehicle Engineer
+Transportation Network Modeler
+Transportation Safety Analyst
+Transportation Planner
+Railway Systems Engineer
+Maritime Technology Specialist
+Aviation Systems Technician
+Cargo Management Systems Developer
+Last Mile Delivery Systems Designer
+Transportation Data Analyst
+Vehicle Telematics Specialist
+Traffic Signal Systems Technician
+Transportation Infrastructure Engineer
+Route Optimization Analyst
+Connected Vehicle Systems Engineer
+Transportation Cybersecurity Specialist
+Urban Mobility Systems Designer
+Intermodal Transportation Specialist
+Warehouse Automation Engineer
+Educational Technology Specialist
+Instructional Designer
+E Learning Developer
+STEM Education Specialist
+Learning Management System Administrator
+Digital Learning Specialist
+Educational Software Developer
+Virtual Reality Education Developer
+Educational Data Analyst
+Interactive Media Specialist
+Educational Technology Researcher
+Adaptive Learning Systems Designer
+Educational Game Developer
+Digital Assessment Specialist
+Remote Learning Systems Engineer
+Educational Technology Integrator
+Digital Curriculum Developer
+Educational Technology Support Specialist
+Online Learning Environment Designer
+STEM Program Coordinator
+Technology Enhanced Learning Specialist
+Digital Learning Content Creator
+School Technology Coordinator
+Educational Technology Trainer
+Online Course Developer
+Quantum Computing Specialist
+Blockchain Developer
+Extended Reality Developer
+Edge Computing Engineer
+Computer Vision Engineer
+Digital Twin Specialist
+Brain Computer Interface Engineer
+Autonomous Systems Engineer
+3D Bioprinting Specialist
+Synthetic Biology Engineer
+Computational Biology Specialist
+Nanotechnology Engineer
+Wearable Technology Developer
+Advanced Materials Scientist
+Neural Interface Designer
+Technology Ethics Specialist
+Biomimicry Design Specialist
+Photonics Engineer
+Haptic Technology Developer
+Conversational AI Developer
+Biohacking Specialist
+Human Augmentation Engineer
+Space Technology Engineer
+Neurotech Developer
+Sustainable Technology Designer
